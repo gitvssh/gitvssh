@@ -2,9 +2,9 @@
 
 # Damecasol
 
-### Backend & Platform Engineer
+### Backend & Platform Engineer · 5+ years
 
-Building resilient backend systems, cloud-native platforms, and practical engineering knowledge.
+Building payment & ledger backends, AI service backends, and the platforms that run them.
 
 [![Tech Blog](https://img.shields.io/badge/Tech_Blog-blog.damecasol.com-2563EB?style=flat-square&logo=ghost&logoColor=white)](https://blog.damecasol.com)
 [![Open Book](https://img.shields.io/badge/Open_Book-HashiCorp_Vault-7C3AED?style=flat-square&logo=wikibooks&logoColor=white)](https://wikidocs.net/book/18285)
@@ -23,10 +23,14 @@ Building resilient backend systems, cloud-native platforms, and practical engine
 
 | Project | What it is |
 | --- | --- |
+| [pickDday](https://github.com/gitvssh/fest-compass) | A public-data service that helps local governments plan festivals: past visitor trends, nearby attractions, and timing on one screen. Next.js, Prisma, Kubernetes. |
+| [Inside AI](https://github.com/gitvssh/inside-ai) | Shows coding-agent reasoning from Claude Code, Codex, and agy in Korean, in a pane next to the CLI. Python, SQLite. |
+| [refiner](https://github.com/gitvssh/refiner) | Privacy-first resume refinement reference app with FastAPI, Next.js, and single-use PDF exports. |
+| [company-ontology-core](https://github.com/gitvssh/company-ontology-core) | Safe serving projections for immutable, release-scoped company graphs. |
+| [deterministic-e2e-harness](https://github.com/gitvssh/deterministic-e2e-harness) | Document-driven E2E test harness with AI-assisted compilation and deterministic Hurl execution. |
+| [Seoul Fit backend](https://github.com/seoul-fit/backend) | Spring Boot API for exploring Seoul public facilities on a map. 2025 Open Source SW Developer Contest, five-person team lead. |
 | [HashiCorp Vault Practical Guide](https://wikidocs.net/book/18285) | An open Korean-language guide to operating Vault, from core concepts to hands-on workflows. |
 | [Tech Blog](https://blog.damecasol.com) | Notes on backend architecture, Kubernetes/GitOps, data engineering, and operations. |
-| [ddlParser](https://github.com/gitvssh/ddlParser) | A Java side project that generates randomized test DML from DDL. |
-| [Algorithm](https://github.com/gitvssh/algorithm) | A long-running collection of algorithm and coding-test practice in Java. |
 
 ## Toolbox
 
